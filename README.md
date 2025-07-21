@@ -73,14 +73,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAgami&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
 ## 🌾 GitAnimals Farm
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AAgami&utm_content=farm">
