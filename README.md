@@ -2,10 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFDEDE&height=130&section=header&text=👋Hel00&fontSize=30&fontColor=5D3A00" />
 </p>
 
-<p align="center">🐈 A cat butler coding the web with joy ✨</p>
+<p align="center">🐈 A cat butler coding the web with joy ✨</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AAgami&label=visits&color=ffb6c1&style=flat-square" alt="Profile views" />
+  <a href="mailto:temikkj@gmail.com">
+  <img src="https://img.shields.io/badge/email-temikkj@gmail.com-blue?style=flat-square&logo=gmail" alt="email" />
+</a>
 </p>
 
 ---
