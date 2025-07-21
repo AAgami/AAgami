@@ -5,7 +5,7 @@
 <p align="center">🐈 A cat butler coding the web with joy ✨</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hel00&label=visits&color=ffb6c1&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AAgami&label=visits&color=ffb6c1&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hel00&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAgami&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
