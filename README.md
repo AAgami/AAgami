@@ -71,8 +71,8 @@
 
 ## 🔭 Projects
 
-- 🏃‍♀️ [**Undongpedia**](https://github.com/TeamLMR/Undongpedia): An online/offline integrated fitness course reservation platform  
-- 🧭 [**GilJobE**](https://github.com/Chunjae-4/GilJobE): A career experience community platform for teens  
+- 🏃‍♀️ [**Undongpedia**](https://github.com/AAgami/Undongpedia): An online/offline integrated fitness course reservation platform  
+- 🧭 [**GilJobE**](https://github.com/AAgami/GilJobE): A career experience community platform for teens  
 
 ---
 
